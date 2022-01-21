@@ -1,3 +1,2 @@
-# Don't Be Sentimental
+# Don't Be Sentimental - PA01 - CS 2341 - Spring 2022
 
-## PA01 - CS 2341 - Spring 2022
